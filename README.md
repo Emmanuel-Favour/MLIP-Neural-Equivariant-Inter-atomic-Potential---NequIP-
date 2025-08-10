@@ -22,7 +22,7 @@ Training epochs: 50
 *Goal: Predict energies & forces with high accuracy for use in computational catalysis studies*
 
 📂 Dataset
-Source: (Bragitoff - sitraj.xyz)[https://www.bragitoff.com/wp-content/uploads/2025/01/sitraj.xyz]
+Source: [Bragitoff - sitraj.xyz](https://www.bragitoff.com/wp-content/uploads/2025/01/sitraj.xyz)
 
 Description:
 The dataset contains Atomic Interaction Molecular Dynamics (AIMD) simulation data for Silicon, generated in the NVT ensemble at 800 K.
@@ -87,9 +87,9 @@ Predicting energies/forces of new atomic configurations
 Potential integration into molecular dynamics simulations
 
 📖 References
-Video Tutorial: (Machine Learning Potentials with NequIP)[https://www.youtube.com/watch?v=xuY5-Pf_Wxc&t=1117s]
+Video Tutorial: [Machine Learning Potentials with NequIP](https://www.youtube.com/watch?v=xuY5-Pf_Wxc&t=1117s)
 
-Dataset Source: (Bragitoff - sitraj.xyz)[https://www.bragitoff.com/wp-content/uploads/2025/01/sitraj.xyz]
+Dataset Source: [Bragitoff - sitraj.xyz](https://www.bragitoff.com/wp-content/uploads/2025/01/sitraj.xyz)
 
 NequIP Documentation: GitHub Repo
 
@@ -98,12 +98,12 @@ Favour Emmanuel
 Chemical Engineer | Aspiring Computational Catalysis Researcher
 This marks my first venture into machine learning for computational chemistry.
 
-🚀 Future Work
-Experiment with different NequIP architectures
+Other Areas I will be exploring
+1. Experiment with different NequIP architectures
 
-Extend to multi-element systems
+2. Extend to multi-element systems
 
-Integrate with active learning pipelines
+3. Integrate with active learning pipelines
 
-Apply to green catalysis reaction pathways
+4. Apply to green catalysis reaction pathways
 
