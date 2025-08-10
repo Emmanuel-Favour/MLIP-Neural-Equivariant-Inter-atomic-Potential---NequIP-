@@ -1,12 +1,12 @@
 # Predicting Atomic Energy & Forces with NequIP
 
-First Machine Learning Project in Computational Catalysis
+### First Machine Learning Project in Computational Catalysis
 
-This repository contains my first hands-on exploration into the application of machine learning for computational catalysis, using the NequIP model to predict energy and forces of atomic interactions from molecular dynamics trajectory data.
+- This repository contains my first hands-on exploration into the application of machine learning for computational catalysis, using the NequIP model to predict energy and forces of atomic interactions from molecular dynamics trajectory data.
 
-The goal is to train a neural network potential capable of accurately modeling atomic forces and energies for a Silicon system, and to explore the workflow of dataset preparation, training, testing, and deployment.
+- The goal is to train a neural network potential capable of accurately modeling atomic forces and energies for a Silicon system, and to explore the workflow of dataset preparation, training, testing, and deployment.
 
-📌 Project Overview
+### 📌 Project Overview
 Model: NequIP (Neural Equivariant Interatomic Potentials)
 
 Data: Silicon AIMD (NVT ensemble, T = 800 K) trajectory
@@ -19,10 +19,10 @@ Format: Extended XYZ (.extxyz)
 
 Training epochs: 50
 
-Goal: Predict energies & forces with high accuracy for use in computational catalysis studies
+*Goal: Predict energies & forces with high accuracy for use in computational catalysis studies*
 
 📂 Dataset
-Source: sitraj.xyz
+Source: (Bragitoff - sitraj.xyz)[https://www.bragitoff.com/wp-content/uploads/2025/01/sitraj.xyz]
 
 Description:
 The dataset contains Atomic Interaction Molecular Dynamics (AIMD) simulation data for Silicon, generated in the NVT ensemble at 800 K.
@@ -35,7 +35,7 @@ Structure:
 
 Energies and forces included in extended XYZ format
 
-⚙️ Workflow
+### ⚙️ Workflow
 1️⃣ Dataset Preparation
 Download .xyz file and convert to .extxyz format if necessary
 
