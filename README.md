@@ -1,7 +1,5 @@
 # Predicting Atomic Energy & Forces with NequIP
 
-### First Machine Learning Project in Computational Catalysis
-
 This repository contains my first hands-on exploration into the application of machine learning for computational catalysis, using the NequIP model to predict energy and forces of atomic interactions from molecular dynamics trajectory data.
 The goal is to train a neural network potential capable of accurately modeling atomic forces and energies for a Silicon system, and to explore the workflow of dataset preparation, training, testing, and deployment.
 
