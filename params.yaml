@@ -1,0 +1,12 @@
+AtomicData_options:
+  r_max: 4.0
+ase_args:
+  format: extxyz
+dtype: torch.float64
+file_name: sitraj.xyz
+include_frames: null
+include_keys: null
+key_mapping: null
+nequip_version: 0.6.1
+root: results/Si
+url: null
